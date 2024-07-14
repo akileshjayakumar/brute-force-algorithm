@@ -7,12 +7,11 @@ Java implementation of a brute-force algorithm to find combinations of numbers t
 - **Comprehensive Search:** Iterates through all possible number combinations.
 - **Customizable:** Define the number range and target sum.
 - **Optimized:** Reduces unnecessary computations.
-- **Simple and Intuitive:** Easy-to-modify Java code.
 
 ## Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/brute-force-algorithm.git
+   git clone https://github.com/akileshjayakumar/brute-force-algorithm
    ```
 2. **Navigate to Directory:**
    ```bash
