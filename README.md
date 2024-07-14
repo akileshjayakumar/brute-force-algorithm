@@ -46,5 +46,5 @@ Modify `maxHashes` and `maxSum` in `BruteForce.java` to set your range and targe
 
 ## Contact
 - **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
-- **LinkedIn:** [Akilesh Jayakumar](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub:** [Akilesh Jayakumar](https://github.com/akileshjayakumar)
+- **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
